@@ -1,6 +1,7 @@
 # Vibration_Sensor_Package_SPIE_2022
 
 Methodology and design of a vibration-base sensor package
+
 Repository include:
 1. Sensor package code (Arduino IDE)
 2. Filter implementation (MATLAB)
