@@ -1,4 +1,4 @@
-# Vibration_Sensor_Package_SPIE_2022
+# A compensation technique for accurate acceleration measurements using a UAV-deployable and retrievable sensor package
 
 Methodology and design of a vibration-base sensor package
 
